@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=%20%20Hi%20there%20👋%20%20&textBg=true&fontSize=45)
 
+[![eunbeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverkong&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--### Hi there 👋-->
 
 <!--
