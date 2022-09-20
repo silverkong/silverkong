@@ -19,8 +19,8 @@ jungeb325@gmail.com
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=silverkong&show_icons=true&theme=dracula"></a>
+[![eunbeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverkong&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://solved.ac/bina25"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bina25"></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bina25)](https://solved.ac/bina25)
 
 
