@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=%20%20Hi%20there%20👋%20%20&textBg=true&fontSize=45)
 
 안녕하세요! 제 이름은 정은빈이에요😊<br>
-현재 **백엔드를 공부**하고 있고, 이전에 디자이너로 일하다 직종을 변경하고 열심히 공부하고 있습니다!
+이전에 디자이너로 일하다 직종을 변경하고 열심히 개발을 공부하고 있습니다!
 
 
 ##### ✉️Contact ✉️
@@ -21,6 +21,6 @@ jungeb325@gmail.com
 
 [![eunbeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverkong&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bina25)](https://solved.ac/bina25)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bina25)](https://solved.ac/bina25)
 
 
