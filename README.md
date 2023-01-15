@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=%20%20Hi%20there%20👋%20%20&textBg=true&fontSize=45)
 
 안녕하세요! 정은빈입니다! 😊<br>
-디자이너에서 직종을 변경하고 열심히 개발을 공부하고 있습니다!
+디자이너에서 직종을 변경하고 열심히 프론트엔드 개발을 공부하고 있습니다!
 
 
 ##### ✉️Contact ✉️
