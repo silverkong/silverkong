@@ -15,7 +15,6 @@ jungeb325@gmail.com
 
 ## 💡 STATS 💡
 
-[![eunbeen's GitHub stats](https://github-readme-stats-sand-ten-92.vercel.app/api?username=silverkong&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bina25)](https://solved.ac/bina25)
-<!-- [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverkong&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![eunbeen's GitHub stats](https://github-readme-stats-sand-ten-92.vercel.app/api?username=silverkong&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverkong&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bina25)](https://solved.ac/bina25)
