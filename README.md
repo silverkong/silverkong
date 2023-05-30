@@ -5,7 +5,7 @@ I am studying to transition from a designer to a developer.<br>
 I am a developer who can progress and improve front-end work based on my understanding of UI/UX.<br>
 Currently, I am also studying Web3 and blockchain with great interest.
 
-### ✉️Contact ✉️
+### ✉️ Contact ✉️
 
 jungeb325@gmail.com
 
