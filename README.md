@@ -16,8 +16,6 @@ jungeb325@gmail.com
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black"/> 
-
 <!-- ## 💡 STATS 💡
 
 [![eunbeen's GitHub stats](https://github-readme-stats-sand-ten-92.vercel.app/api?username=silverkong&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bina25)](https://solved.ac/bina25)
